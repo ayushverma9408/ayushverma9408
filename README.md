@@ -12,7 +12,42 @@
 - 📫 How to reach me **ayushverma19341@gmail.com**
 
 - ⚡ Fun fact **I love advanced problem solving**
+## 🚀 About Me
 
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTR0ZzN1Z3h3N3V6ZnF6Z2M4MzZ6YjZ0eTlqM2l2MXl4aDV6bW44dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+
+- 🎓 CSE Undergraduate at **NIT Silchar**
+- 💻 Competitive Programmer
+- 🏆 Codeforces: **ayushverma9408**
+- ⚡ LeetCode: **AYUSHVERMA9408**
+- 🌱 Currently learning **DSA, CP, and Development**
+- 🎯 Goal: Reach **Candidate Master** on Codeforces
+- 🤝 Open to collaborations on interesting projects
+- 📫 Reach me on LinkedIn
+<h2 align="center">🏆 Competitive Programming</h2>
+
+<p align="center">
+  <a href="https://leetcode.com/u/AYUSHVERMA9408/">
+    <img src="https://img.shields.io/badge/LeetCode-AYUSHVERMA9408-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+
+  <a href="https://codeforces.com/profile/ayushverma9408">
+    <img src="https://img.shields.io/badge/Codeforces-ayushverma9408-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/AYUSHVERMA9408/">
+    <img src="https://leetcard.jacoblin.cool/AYUSHVERMA9408?theme=dark&ext=heatmap" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://codeforces.com/profile/ayushverma9408">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ayushverma9408" />
+  </a>
+</p>
+<br clear="both">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ayushverma9408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushverma9408" height="30" width="40" /></a>
