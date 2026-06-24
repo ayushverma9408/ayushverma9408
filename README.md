@@ -56,6 +56,38 @@
 | 🔵 Codeforces | **ayushverma9408** |
 
 </div>
+<div align="center">
+
+# 🤖 AYUSH VERMA // SYSTEM DASHBOARD
+
+```txt
+STATUS          : ONLINE
+ROLE            : CSE @ NIT SILCHAR
+PRIMARY SKILLS  : C++ | Python | DSA | Competitive Programming
+LEETCODE ID     : AYUSHVERMA9408
+CODEFORCES ID   : ayushverma9408
+CURRENT MISSION : Become Candidate Master
+```
+
+</div>
+
+---
+
+## 📡 CONTENT BROADCAST SYSTEM
+
+<div align="center">
+
+<a href="https://youtube.com/@YOUR_CHANNEL_HANDLE">
+    <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+</div>
+
+### 🎥 Latest Transmission
+
+<!-- START YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
 <br clear="both">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
