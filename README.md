@@ -21,18 +21,24 @@
 - 🤝 Open to collaborations on interesting projects
 - 📫 Reach me on LinkedIn
 <h2 align="center">🏆 Competitive Programming</h2>
-## 🏆 LeetCode Contest
+<h2 align="center">🏆 Competitive Programming</h2>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/AYUSHVERMA9408?theme=dark&ext=contest" />
-</p>
 <p align="center">
   <a href="https://leetcode.com/u/AYUSHVERMA9408/">
-    <img src="https://img.shields.io/badge/LeetCode-AYUSHVERMA9408-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-AYUSHVERMA9408-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-
+  &nbsp;
   <a href="https://codeforces.com/profile/ayushverma9408">
-    <img src="https://img.shields.io/badge/Codeforces-ayushverma9408-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" />
+    <img src="https://img.shields.io/badge/Codeforces-ayushverma9408-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/AYUSHVERMA9408/">
+    <img src="https://leetcard.jacoblin.cool/AYUSHVERMA9408?theme=dark&ext=contest" width="49%" />
+  </a>
+  <a href="https://codeforces.com/profile/ayushverma9408">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ayushverma9408" width="49%" />
   </a>
 </p>
 
@@ -42,11 +48,14 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://codeforces.com/profile/ayushverma9408">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ayushverma9408" />
-  </a>
-</p>
+<div align="center">
+
+| Platform | Profile |
+|----------|---------|
+| 🟠 LeetCode | **AYUSHVERMA9408** |
+| 🔵 Codeforces | **ayushverma9408** |
+
+</div>
 <br clear="both">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
