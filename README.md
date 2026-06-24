@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Verma</h1>
 <h3 align="center">🎓NITS CSE’29 B. tech Student || KVS Alumini || Ex KV School Captain || IAF Brat🛫 || Competitive Coder 💻 || Specialist @Codeforces || Passionate in Problem Solving || LEETCODE 150+ Qs || C || C++ || Python ||</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushverma9408&label=Profile%20views&color=0e75b6&style=flat" alt="ayushverma9408" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushverma9408" alt="ayushverma9408" /></a> </p>
-
 - 🌱 I’m currently learning **DSA , AI/ML**
 
 - 🤝 I’m looking for help with [CBT Test Simulator](https://github.com/ayushverma9408/JEE-ADVANCED-PAPER-ARCHIVE)
