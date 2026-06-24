@@ -25,7 +25,11 @@
 - 🤝 Open to collaborations on interesting projects
 - 📫 Reach me on LinkedIn
 <h2 align="center">🏆 Competitive Programming</h2>
+## 🏆 LeetCode Contest
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/AYUSHVERMA9408?theme=dark&ext=contest" />
+</p>
 <p align="center">
   <a href="https://leetcode.com/u/AYUSHVERMA9408/">
     <img src="https://img.shields.io/badge/LeetCode-AYUSHVERMA9408-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
