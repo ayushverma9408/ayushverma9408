@@ -60,15 +60,6 @@
 
 # 🤖 AYUSH VERMA // SYSTEM DASHBOARD
 
-```txt
-STATUS          : ONLINE
-ROLE            : CSE @ NIT SILCHAR
-PRIMARY SKILLS  : C++ | Python | DSA | Competitive Programming
-LEETCODE ID     : AYUSHVERMA9408
-CODEFORCES ID   : ayushverma9408
-CURRENT MISSION : Become Candidate Master
-```
-
 </div>
 
 ---
@@ -77,7 +68,7 @@ CURRENT MISSION : Become Candidate Master
 
 <div align="center">
 
-<a href="https://youtube.com/@YOUR_CHANNEL_HANDLE">
+<a href="https://youtube.com/@AyushVerma_9408">
     <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
