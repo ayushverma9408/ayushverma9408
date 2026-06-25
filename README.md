@@ -31,7 +31,6 @@
     <img src="https://img.shields.io/badge/Codeforces-ayushverma9408-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://leetcode.com/u/AYUSHVERMA9408/">
     <img src="https://leetcard.jacoblin.cool/AYUSHVERMA9408?theme=dark&ext=contest" width="49%" />
@@ -40,19 +39,14 @@
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ayushverma9408" width="49%" />
   </a>
 </p>
-
 <h2 align="center">🏅 LeetCode Badge</h2>
 <p align="center">
   <img src="https://leetcode.com/static/images/badges/dcc-2026-2.png" width="180"/>
-</p>
-<p align="center">
+  <img src="https://leetcode.com/static/images/badges/dcc-2026-3.png" width="180"/>
   <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="180"/>
-</p>
-<p align="center">
   <img src="https://assets.leetcode.com/static_assets/others/100.gif" width="180"/>
-</p>
-<p align="center">
   <img src="https://assets.leetcode.com/static_assets/others/200_1080_1080.png" width="180"/>
+</p>
 </p>
 <p align="center">
   <a href="https://leetcode.com/u/AYUSHVERMA9408/">
@@ -77,9 +71,11 @@
 ---
 
 ## 📡 YouTube Channel 
-<h2 align="center">Ayush Verma ◉JEEPHYX◉</h2>
+<p align="center" href="https://youtube.com/@AyushVerma_9408">>
+  <img width="1280" height="286" alt="image" src="https://github.com/user-attachments/assets/982885e8-d4d6-4ff8-ac0a-9012807f5e1e" />
+</p>
+<h1 align="center">Ayush Verma ◉JEEPHYX◉</h1>
 <div align="center">
-
 <a href="https://youtube.com/@AyushVerma_9408">
     <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
