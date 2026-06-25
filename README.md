@@ -21,7 +21,6 @@
 - 🤝 Open to collaborations on interesting projects
 - 📫 Reach me on LinkedIn
 <h2 align="center">🏆 Competitive Programming</h2>
-<h2 align="center">🏆 Competitive Programming</h2>
 
 <p align="center">
   <a href="https://leetcode.com/u/AYUSHVERMA9408/">
@@ -42,6 +41,19 @@
   </a>
 </p>
 
+<h2 align="center">🏅 LeetCode Badge</h2>
+<p align="center">
+  <img src="https://leetcode.com/static/images/badges/dcc-2026-2.png" width="180"/>
+</p>
+<p align="center">
+  <img src="https://assets.leetcode.com/static_assets/others/50_1080_1080.png" width="180"/>
+</p>
+<p align="center">
+  <img src="https://assets.leetcode.com/static_assets/others/100_1080_1080.png" width="180"/>
+</p>
+<p align="center">
+  <img src="https://assets.leetcode.com/static_assets/others/200_1080_1080.png" width="180"/>
+</p>
 <p align="center">
   <a href="https://leetcode.com/u/AYUSHVERMA9408/">
     <img src="https://leetcard.jacoblin.cool/AYUSHVERMA9408?theme=dark&ext=heatmap" />
