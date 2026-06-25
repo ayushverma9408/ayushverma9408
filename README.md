@@ -46,10 +46,10 @@
   <img src="https://leetcode.com/static/images/badges/dcc-2026-2.png" width="180"/>
 </p>
 <p align="center">
-  <img src="https://assets.leetcode.com/static_assets/others/50_1080_1080.png" width="180"/>
+  <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="180"/>
 </p>
 <p align="center">
-  <img src="https://assets.leetcode.com/static_assets/others/100_1080_1080.png" width="180"/>
+  <img src="https://assets.leetcode.com/static_assets/others/100.gif" width="180"/>
 </p>
 <p align="center">
   <img src="https://assets.leetcode.com/static_assets/others/200_1080_1080.png" width="180"/>
