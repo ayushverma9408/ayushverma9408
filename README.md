@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Verma</h1>
-<h3 align="center">🎓NITS CSE’29 B. tech Student || KVS Alumini || Ex KV School Captain || IAF Brat🛫 || Competitive Coder 💻 || Specialist @Codeforces || Passionate in Problem Solving || LEETCODE 150+ Qs || C || C++ || Python ||</h3>
+<h3 align="center">🎓NITS CSE’29 B. tech Student || KVS Alumini || Ex KV School Captain || IAF Brat🛫 || Competitive Coder 💻 || Pupil @Codeforces || Passionate in Problem Solving || LEETCODE 150+ Qs || C || C++ || Python ||</h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=650&lines=Passionate+in+Problem+Solving;Data+Science+%7C+ML+%7C+AI+Enthusiast;Competitive+Coder;B.Tech+CS+%40+NIT+Silchar" alt="Typing SVG" />
 </p>
