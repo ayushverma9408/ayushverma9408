@@ -20,7 +20,7 @@
 - 🏆 Codeforces: **ayushverma9408**
 - ⚡ LeetCode: **AYUSHVERMA9408**
 - 🌱 Currently learning **DSA, CP, and Development**
-- 🎯 Goal: Reach **Candidate Master** on Codeforces
+- 🎯 Goal: 1) Reach **Candidate Master** on Codeforces  .  2) Reach **Guardian** on LeetCode 
 - 🤝 Open to collaborations on interesting projects
 - 📫 Reach me on LinkedIn
 <h2 align="center">🏆 Competitive Programming</h2>
