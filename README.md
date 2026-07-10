@@ -45,13 +45,13 @@
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ayushverma9408" width="49%" />
   </a>
 </p>
-<h2 align="center">🏅 LeetCode Badge</h2>
+<h2 align="center">🏅 LeetCode Badges and Heat-Map </h2>
 <p align="center">
-  <img src="https://leetcode.com/static/images/badges/dcc-2026-2.png" width="180"/>
-  <img src="https://leetcode.com/static/images/badges/dcc-2026-3.png" width="180"/>
-  <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="180"/>
-  <img src="https://assets.leetcode.com/static_assets/others/100.gif" width="180"/>
-  <img src="https://assets.leetcode.com/static_assets/others/200_1080_1080.png" width="180"/>
+  <img src="https://leetcode.com/static/images/badges/dcc-2026-2.png" width="100"/>
+  <img src="https://leetcode.com/static/images/badges/dcc-2026-3.png" width="100"/>
+  <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="100"/>
+  <img src="https://assets.leetcode.com/static_assets/others/100.gif" width="100"/>
+  <img src="https://assets.leetcode.com/static_assets/others/200_1080_1080.png" width="100"/>
 </p>
 </p>
 <p align="center">
