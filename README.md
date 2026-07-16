@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=900&center=true&vCenter=true&width=700&lines=Passionate+in+Problem+Solving;Data+Science+%7C+ML+%7C+AI+Enthusiast;Competitive+Coder;B.Tech+CS+%40+NIT+Silchar" alt="Typing SVG" />
 </p>
-
+ 
 - 🌱 I’m currently learning DSA , AI/ML
 
 - 🤝 I’m looking for help with [CBT Test Simulator](https://github.com/ayushverma9408/JEE-ADVANCED-PAPER-ARCHIVE)
