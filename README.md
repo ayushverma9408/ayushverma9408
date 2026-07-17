@@ -4,7 +4,7 @@
 <h4 align="center">|| ~~ LEETCODE 200+ Qs  ~~||~~  C/C++ ~~ ||~~ Python / py-3 ~~||</h4>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=900&center=true&vCenter=true&width=700&lines=Passionate+in+Problem+Solving;Data+Science+%7C+ML+%7C+AI+Enthusiast;Competitive+Coder;B.Tech+CS+%40+NIT+Silchar" alt="Typing SVG" />
-</p>
+</p> 
  
 - 🌱 I’m currently learning DSA , AI/ML
 
