@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Verma</h1> 
-<h4 align="center">||~~ 🎓NITS CSE’29 B. tech Student  ~~||~~ KVS Alumini - School Captain(retd.) ~~|| </h4>
+<h4 align="center">||~~ 🎓NITS CSE’29 B. tech Student  ~~||~~ KVS Alumini - School Captain(retd.) ~~|| </h4> 
 <h4 align="center">||~~ IAF Brat🛫 ~~||~~ Competitive Coder 💻 ~~||~~ Pupil @Codeforces ~~||~~  Passionate in Problem Solving  ~~||</h4>
 <h4 align="center">|| ~~ LEETCODE 200+ Qs  ~~||~~  C/C++ ~~ ||~~ Python / py-3 ~~||</h4>
 <p align="center"> 
