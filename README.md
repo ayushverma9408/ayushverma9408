@@ -108,9 +108,20 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushverma9408&" alt="ayushverma9408" /></p>
 
 ---
+---
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ayushverma9408/ayushverma9408/output/github-contribution-grid-snake-dark.svg"
+       alt="GitHub Contribution Snake" />
+</p>
+
+---
 
 👀 Profile Views
 --
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ayushverma9408&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 </p>
+
+
