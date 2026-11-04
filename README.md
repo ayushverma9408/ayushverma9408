@@ -111,16 +111,53 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushverma9408&" alt="ayushverma9408" /></p>
 
+
 ---
----
-## 🐍 GitHub Contribution Snake
+
+<!-- ================= CONTRIBUTION SHOWCASE ================= -->
+
+<h2 align="center">⚡ CONTRIBUTION MATRIX ⚡</h2>
+
+<!-- 3D CONTRIBUTIONS -->
+<h3 align="center">🌌 3D CONTRIBUTION LANDSCAPE</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ayushverma9408/ayushverma9408/output/github-contribution-grid-snake-dark.svg"
-       alt="GitHub Contribution Snake" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg"
+       width="100%"
+       alt="3D GitHub Contributions"/>
 </p>
 
----
+<!-- SNAKE ANIMATION -->
+<h3 align="center">🐍 SNAKE VS CONTRIBUTIONS</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ayushverma9408/ayushverma9408/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ayushverma9408/ayushverma9408/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/ayushverma9408/ayushverma9408/output/github-contribution-grid-snake.svg"
+      width="100%"/>
+  </picture>
+</p>
+
+<!-- PACMAN ANIMATION -->
+<h3 align="center">👾 PACMAN CONTRIBUTION GAME</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ayushverma9408/ayushverma9408/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ayushverma9408/ayushverma9408/output/pacman-contribution-graph.svg">
+    <img alt="Pacman Contribution Graph"
+      src="https://raw.githubusercontent.com/ayushverma9408/ayushverma9408/output/pacman-contribution-graph.svg"
+      width="100%"/>
+  </picture>
+</p>
+
+<!-- END CONTRIBUTION SHOWCASE -->
 
 👀 Profile Views
 --
