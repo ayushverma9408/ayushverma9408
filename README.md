@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:00D9F5&height=200&section=header&text=AYUSH%20VERMA&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=NIT%20SILCHAR%20CSE%20%7C%20COMPETITIVE%20PROGRAMMER&descAlignY=55&descSize=16"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Ayush Verma</h1> 
 <h4 align="center">||~~ 🎓NITS CSE’29 B. tech Student  ~~||~~ KVS Alumini - School Captain(retd.) ~~|| </h4> 
 <h4 align="center">||~~ IAF Brat🛫 ~~||~~ Competitive Coder 💻 ~~||~~ Pupil @Codeforces ~~||~~  Passionate in Problem Solving  ~~||</h4>
