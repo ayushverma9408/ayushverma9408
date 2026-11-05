@@ -2,22 +2,41 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:00D9F5&height=200&section=header&text=AYUSH%20VERMA&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=NIT%20SILCHAR%20CSE%20%7C%20COMPETITIVE%20PROGRAMMING%20%7C%20CONTINUOUS%20LEARNING&descAlignY=55&descSize=16"/>
 </p>
 
-<!-- HACKER TERMINAL INTRO -->
+<!-- HACKER OS -->
+<h2 align="center">⌨️ AYUSH OS // DEVELOPER CONSOLE</h2>
+
 <div align="center">
 
 ```bash
 ┌──(ayush㉿nits)-[~]
-└─$ whoami
-Ayush Verma | CSE @ NIT Silchar
+└─$ ./ayush-os --boot
 
-└─$ interests --show
-Competitive Programming • Algorithms • Software Development
+[ OK ] Loading developer profile...
+[ OK ] Mounting skills: C++ | DSA | Python | Web
+[ OK ] Connecting to NIT Silchar // CSE '29
+[ OK ] Initializing build mode...
 
+┌──(ayush㉿nits)-[~/console]
+└─$ help
+
+  about       → Who am I?
+  projects    → Explore things I'm building
+  algorithms  → Competitive programming profiles
+  connect     → Get in touch
+
+┌──(ayush㉿nits)-[~/console]
 └─$ status
-Learning, building, and improving — one commit at a time.
+  LEARNING // BUILDING // ITERATING
 ```
 
 </div>
+
+<p align="center">
+  <a href="#-about-me">[ ABOUT ]</a> ·
+  <a href="#-project-command-centre">[ PROJECTS ]</a> ·
+  <a href="#-competitive-programming">[ ALGORITHMS ]</a> ·
+  <a href="#-thanks-for-visiting">[ CONNECT ]</a>
+</p>
 
 <h1 align="center">Hi, I'm Ayush Verma 👋</h1>
 <h3 align="center">CSE Undergraduate @ NIT Silchar'29</h3>
@@ -70,6 +89,52 @@ Learning, building, and improving — one commit at a time.
 | **FloodWatch** | Project concept and prototype planning |
 | **Web Development** | Learning and experimenting with web technologies |
 | **Competitive Programming** | Consistent practice and contest improvement |
+
+---
+
+## 🛰️ Project Command Centre
+
+> A live index of selected work. Project status is kept explicit—no demo or completion claims unless they're real.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏠 Hostel Allotment System</h3>
+      <a href="https://github.com/ayushverma9408/Hacakathon-hostel-allotment-system">
+        <img src="https://img.shields.io/badge/OPEN_REPOSITORY-00D9F5?style=for-the-badge&logo=github&logoColor=black" alt="Open repository"/>
+      </a>
+      <p>Automated hostel-room allocation with capacity checks, waitlist handling, spreadsheet import/export, and live preview.</p>
+      <p><strong>Stack:</strong> SvelteKit · TypeScript · Tailwind CSS · SheetJS</p>
+      <p><sub>Status: Repository available</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 JEE Advanced Paper Archive</h3>
+      <a href="https://github.com/ayushverma9408/JEE-ADVANCED-PAPER-ARCHIVE">
+        <img src="https://img.shields.io/badge/OPEN_REPOSITORY-00F5A0?style=for-the-badge&logo=github&logoColor=black" alt="Open repository"/>
+      </a>
+      <p>A growing archive focused on organizing JEE Advanced paper resources.</p>
+      <p><strong>Focus:</strong> Education · Exam resources</p>
+      <p><sub>Status: Repository available</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌊 FloodWatch</h3>
+      <p>Hackathon concept exploring a flood-monitoring solution combining hardware and software.</p>
+      <p><strong>Focus:</strong> IoT · Sensors · Data visualization</p>
+      <p><sub>Status: Concept / prototype planning</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 Competitive Programming</h3>
+      <a href="https://github.com/ayushverma9408/Codeforces_9408">
+        <img src="https://img.shields.io/badge/EXPLORE_CODE-1F8ACB?style=for-the-badge&logo=github&logoColor=white" alt="Explore code"/>
+      </a>
+      <p>Problem-solving practice, algorithm implementations, and contest learnings.</p>
+      <p><strong>Focus:</strong> C++ · DSA · Algorithms</p>
+      <p><sub>Status: Ongoing practice</sub></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -206,12 +271,12 @@ Learning, building, and improving — one commit at a time.
 <h2 align="center">⚡ CONTRIBUTION MATRIX ⚡</h2>
 
 <!-- 3D CONTRIBUTIONS -->
-<h3 align="center">🌌 3D CONTRIBUTION LANDSCAPE</h3>
+<h3 align="center">🌆 3D CONTRIBUTION CITY</h3>
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg"
        width="100%"
-       alt="3D GitHub Contributions"/>
+       alt="3D GitHub contribution cityscape"/>
 </p>
 
 <!-- SNAKE ANIMATION -->
