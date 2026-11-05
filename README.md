@@ -36,6 +36,12 @@
   <a href="https://codeforces.com/profile/ayushverma9408">
     <img src="https://img.shields.io/badge/Codeforces-ayushverma9408-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://www.codechef.com/users/ayushverma9408">
+    <img src="https://img.shields.io/badge/CodeChef-ayushverma9408-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://cf.leed.at?id=ayushverma9408" alt="Codeforces Rating Graph"/>
 </p>
@@ -67,7 +73,8 @@
 | Platform | Profile |
 |----------|---------|
 | 🟠 LeetCode | **AYUSHVERMA9408** |
-| 🔵 Codeforces | **ayushverma9408** |
+| 🔵 Codeforces | [**ayushverma9408**](https://codeforces.com/profile/ayushverma9408) |
+| 🟤 CodeChef | [**ayushverma9408**](https://www.codechef.com/users/ayushverma9408) |
 
 </div>
 
