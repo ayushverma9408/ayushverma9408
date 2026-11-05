@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:00D9F5&height=200&section=header&text=AYUSH%20VERMA&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=NIT%20SILCHAR%20CSE%20%7C%20NIT%20SILCHAR%20CSE&descAlignY=55&descSize=16"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:00D9F5&height=200&section=header&text=AYUSH%20VERMA&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=NIT%20SILCHAR%20CSE%20%7C%20CODING%20%7C%20CONTIUOUS%20LEARNING&descAlignY=55&descSize=16"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Ayush Verma</h1> 
