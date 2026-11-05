@@ -1,34 +1,31 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:00D9F5&height=200&section=header&text=AYUSH%20VERMA&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=NIT%20SILCHAR%20CSE%20%7C%20CODING%20%7C%20CONTIUOUS%20LEARNING&descAlignY=55&descSize=16"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:00D9F5&height=200&section=header&text=AYUSH%20VERMA&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=NIT%20SILCHAR%20CSE%20%7C%20COMPETITIVE%20PROGRAMMING%20%7C%20CONTINUOUS%20LEARNING&descAlignY=55&descSize=16"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Ayush Verma</h1> 
-<h4 align="center">||~~ 🎓NITS CSE’29 B. tech Student  ~~||~~ KVS Alumini - School Captain(retd.) ~~|| </h4> 
-<h4 align="center">||~~ IAF Brat🛫 ~~||~~ Competitive Coder 💻 ~~||~~ Pupil @Codeforces ~~||~~  Passionate in Problem Solving  ~~||</h4>
-<h4 align="center">|| ~~ LEETCODE 200+ Qs  ~~||~~  C/C++ ~~ ||~~ Python / py-3 ~~||</h4> 
+<h1 align="center">Hi, I'm Ayush Verma 👋</h1>
+<h3 align="center">CSE Undergraduate @ NIT Silchar'29</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=900&center=true&vCenter=true&width=700&lines=Passionate+in+Problem+Solving;Data+Science+%7C+ML+%7C+AI+Enthusiast;Competitive+Coder;B.Tech+CS+%40+NIT+Silchar" alt="Typing SVG" />
-</p> 
- 
-- 🌱 I’m currently learning DSA , AI/ML
+  <em>Competitive Programming • Problem Solving • Exploring Software Development</em>
+</p>
 
-- 🤝 I’m looking for help with [CBT Test Simulator](https://github.com/ayushverma9408/JEE-ADVANCED-PAPER-ARCHIVE)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&center=true&vCenter=true&width=700&lines=Competitive+Programmer;Learning+DSA+%26+Algorithms;Exploring+AI%2FML+and+Web+Development;Building+and+Learning+Every+Day" alt="Typing SVG" />
+</p>
 
-- 📫 How to reach me **ayushverma19341@gmail.com**
+---
 
-- ⚡ Fun fact **I love advanced problem solving**
-## 🚀 About Me
+## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTR0ZzN1Z3h3N3V6ZnF6Z2M4MzZ6YjZ0eTlqM2l2MXl4aDV6bW44dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+- 🎓 **B.Tech CSE student** at NIT Silchar (Class of 2029)
+- 🏫 **Kendriya Vidyalaya alumnus** and former School Captain
+- 💻 I enjoy competitive programming, algorithms, and challenging problem-solving
+- 🌱 Currently exploring **DSA, AI/ML, and Web Development**
+- 🎯 Working towards **Candidate Master on Codeforces** and **Guardian on LeetCode**
+- 🤝 Interested in collaborating on useful software and learning-focused projects
+- 📫 **Email:** [ayushverma19341@gmail.com](mailto:ayushverma19341@gmail.com)
 
-- 🎓 CSE Undergraduate at **NIT Silchar**
-- 💻 Competitive Programmer
-- 🏆 Codeforces: **ayushverma9408**
-- ⚡ LeetCode: **AYUSHVERMA9408**
-- 🌱 Currently learning **DSA, CP, and Development**
-- 🎯 Goal: 1) Reach **Candidate Master** on Codeforces  .  2) Reach **Guardian** on LeetCode 
-- 🤝 Open to collaborations on interesting projects
-- 📫 Reach me on LinkedIn
+---
+
 <h2 align="center">🏆 Competitive Programming</h2>
 
 <p align="center">
