@@ -59,7 +59,7 @@
   <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="100"/>
   <img src="https://assets.leetcode.com/static_assets/others/100.gif" width="100"/>
   <img src="https://assets.leetcode.com/static_assets/others/200.gif" width="100"/>
-  <img src="https://assets.leetcode.com/static_assets/others/300.gif" width="100"/>
+  <img src="https://assets.leetcode.com/static_assets/others/2026.gif" width="100"/>
 </p>
 </p>
 <p align="center">
