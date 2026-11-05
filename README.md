@@ -54,6 +54,14 @@
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ayushverma9408" width="49%" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://www.codechef.com/users/ayushverma9408">
+    <img src="https://codechef-stats.tashif.codes/ayushverma9408/stats/svg?theme=dark"
+         width="70%"
+         alt="CodeChef statistics for ayushverma9408" />
+  </a>
+</p>
 <h2 align="center">🏅 LeetCode Badges and Heat-Map </h2>
 <p align="center"> 
   <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="100"/>
