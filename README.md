@@ -64,11 +64,7 @@
     <img src="https://leetcard.jacoblin.cool/AYUSHVERMA9408?theme=dark&ext=heatmap" />
   </a>
 </p>
-<h2 align="center">🏆 ACHIEVEMENT DATABASE</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushverma9408&theme=matrix&no-frame=true&no-bg=true&column=6&margin-w=10" width="100%"/>
-</p>
+ 
 <div align="center">
 
 | Platform | Profile |
