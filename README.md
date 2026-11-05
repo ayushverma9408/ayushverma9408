@@ -55,10 +55,10 @@
 <p align="center">
   <img src="https://leetcode.com/static/images/badges/dcc-2026-2.png" width="100"/>
   <img src="https://leetcode.com/static/images/badges/dcc-2026-3.png" width="100"/>
-  <img src="https://leetcode.com/static/images/badges/dcc-2026-6.png" width="100"/>
+  <img src="https://leetcode.com/static/images/badges/dcc-2026-6.gif" width="100"/>
   <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="100"/>
   <img src="https://assets.leetcode.com/static_assets/others/100.gif" width="100"/>
-  <img src="https://assets.leetcode.com/static_assets/others/200_1080_1080.png" width="100"/>
+  <img src="https://assets.leetcode.com/static_assets/others/200.gif" width="100"/>
 </p>
 </p>
 <p align="center">
