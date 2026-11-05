@@ -70,6 +70,54 @@
 - Exploring **AI/ML** and practical applications
 - Building a stronger foundation in software engineering
 
+## 🧭 Developer Progression Timeline
+
+A snapshot of the areas I'm building experience in—not a claim of mastery.
+
+```mermaid
+timeline
+    title My Developer Journey
+    Foundations : C++ and Python
+                : Programming fundamentals
+    Problem Solving : Data Structures and Algorithms
+                     : Competitive programming
+    Software Development : HTML, CSS and JavaScript
+                          : Git and collaborative workflows
+    Expanding Horizons : Databases and backend concepts
+                        : Exploring AI and Machine Learning
+    Next Milestones : Build and ship more complete projects
+                    : Contribute to open source
+```
+
+## ✨ Skill Constellation
+
+The map below groups the technologies and concepts I'm learning and applying.
+
+```text
+                         AYUSH // SKILL MAP
+                                  |
+             +--------------------+--------------------+
+             |                    |                    |
+        PROGRAMMING          PROBLEM SOLVING       DEVELOPMENT
+             |                    |                    |
+          C++ / Python        DSA / Algorithms     HTML / CSS
+          SQL (learning)      Competitive Prog.    JavaScript
+                                                   SvelteKit
+                                                   TypeScript
+             |
+        EXPLORATION
+             |
+          AI / ML
+          Data Science
+```
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,ts,svelte,mysql,git,github&theme=dark"
+       alt="Technology icons: C++, Python, HTML, CSS, JavaScript, TypeScript, Svelte, MySQL, Git and GitHub"/>
+</p>
+
+---
+
 ## 🏅 Achievements
 
 - 🎓 Scored **97% in CBSE Class XII**
@@ -225,6 +273,36 @@
        alt="GitHub contribution streak" />
 </p>
 
+## ⏱️ Live Coding Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushverma9408&layout=donut&theme=tokyonight&hide_border=true"
+       height="180"
+       alt="Language distribution from public GitHub repositories"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushverma9408&show_icons=true&hide=issues&theme=tokyonight&hide_border=true"
+       height="180"
+       alt="Live GitHub coding activity summary"/>
+</p>
+
+<p align="center">
+  <sub>These cards reflect public GitHub repository data, not a real-time keystroke or editor timer.</sub>
+</p>
+
+<details>
+  <summary>⚡ Enable editor-time tracking (optional)</summary>
+
+  To show actual coding hours and editor/language breakdowns, connect a [WakaTime](https://wakatime.com/) account and replace `YOUR_WAKATIME_USERNAME` below with your WakaTime username:
+
+  ```html
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true"
+       alt="WakaTime coding activity"/>
+  ```
+
+  This panel is intentionally not enabled until an account username is configured.
+</details>
+
+---
+
 ## 📈 GitHub Activity — Live Graph
 
 <p align="center">
@@ -263,6 +341,40 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+---
+
+## 🛰️ GitHub Mission Control
+
+<p align="center">
+  <a href="https://github.com/ayushverma9408?tab=repositories">
+    <img src="https://img.shields.io/badge/REPOSITORIES-Explore%20all-181717?style=for-the-badge&logo=github" alt="Explore repositories"/>
+  </a>
+  <a href="https://github.com/ayushverma9408?tab=stars">
+    <img src="https://img.shields.io/badge/STARS-My%20stars-FFD700?style=for-the-badge&logo=github" alt="Explore starred repositories"/>
+  </a>
+  <a href="https://github.com/ayushverma9408/ayushverma9408/actions">
+    <img src="https://img.shields.io/badge/ACTIONS-Workflow%20control-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="Open GitHub Actions"/>
+  </a>
+  <a href="https://github.com/ayushverma9408/ayushverma9408/issues">
+    <img src="https://img.shields.io/badge/ISSUES-Track%20work-8957E5?style=for-the-badge&logo=github" alt="Track issues"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ayushverma9408/ayushverma9408/actions/workflows/contribution-animations.yml">
+    <img src="https://github.com/ayushverma9408/ayushverma9408/actions/workflows/contribution-animations.yml/badge.svg" alt="Contribution animations workflow status"/>
+  </a>
+</p>
+
+| Mission | Destination |
+|---|---|
+| Browse code | [All repositories](https://github.com/ayushverma9408?tab=repositories) |
+| Follow development | [Commit activity](https://github.com/ayushverma9408?tab=overview) |
+| Check automation | [GitHub Actions](https://github.com/ayushverma9408/ayushverma9408/actions) |
+| Track improvements | [Issues and discussions](https://github.com/ayushverma9408/ayushverma9408/issues) |
+
+<sub>Mission control links to live GitHub pages; workflow status is supplied by GitHub Actions.</sub>
 
 ---
 
