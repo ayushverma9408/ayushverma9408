@@ -34,6 +34,7 @@
 <p align="center">
   <a href="#-about-me">[ ABOUT ]</a> ·
   <a href="#-project-command-centre">[ PROJECTS ]</a> ·
+  <a href="https://github.com/ayushverma9408/ayush-os">[ AYUSH OS PORTFOLIO ]</a> ·
   <a href="#-competitive-programming">[ ALGORITHMS ]</a> ·
   <a href="#-thanks-for-visiting">[ CONNECT ]</a>
 </p>
@@ -64,6 +65,7 @@
 
 ## 🎯 Current Focus
 
+- Building **AYUSH OS**, my standalone developer portfolio with SvelteKit, TypeScript, and a terminal-inspired interface
 - Strengthening **Data Structures, Algorithms, and problem-solving**
 - Improving contest performance on **Codeforces, CodeChef, and LeetCode**
 - Learning **full-stack web development**
@@ -143,6 +145,26 @@ The map below groups the technologies and concepts I'm learning and applying.
 ## 🛰️ Project Command Centre
 
 > A live index of selected work. Project status is kept explicit—no demo or completion claims unless they're real.
+
+<p align="center">
+  <a href="https://github.com/ayushverma9408/ayush-os">
+    <img src="https://img.shields.io/badge/AYUSH_OS-OPEN_PORTFOLIO_REPOSITORY-00F5A0?style=for-the-badge&logo=github&logoColor=black" alt="Open AYUSH OS portfolio repository"/>
+  </a>
+</p>
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h3>🖥️ AYUSH OS — Developer Portfolio</h3>
+      <a href="https://github.com/ayushverma9408/ayush-os">
+        <img src="https://img.shields.io/badge/VIEW_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="View AYUSH OS source code"/>
+      </a>
+      <p>A standalone, terminal-inspired portfolio designed as a personal developer command centre, with sections for my introduction, projects, skills, coding profiles, and contact links.</p>
+      <p><strong>Stack:</strong> SvelteKit · Svelte 5 · TypeScript · Vite · Lucide</p>
+      <p><sub>Status: Initial scaffold committed; deployment and live URL are not configured yet.</sub></p>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
