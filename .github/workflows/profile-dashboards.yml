@@ -8,6 +8,7 @@ on:
     paths:
       - ".github/workflows/profile-dashboards.yml"
       - "scripts/generate_profile_cards.py"
+      - "README.md"
 
 permissions:
   contents: write
