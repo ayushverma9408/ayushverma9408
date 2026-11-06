@@ -329,7 +329,7 @@ The map below groups the technologies and concepts I'm learning and applying.
 
 <p align="center">
   <a href="https://github.com/ayushverma9408">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushverma9408&theme=react-dark&hide_border=true&area=true"
+    <img src="https://raw.githubusercontent.com/ayushverma9408/ayushverma9408/main/profile/activity-graph.svg"
          width="100%"
          alt="Live GitHub activity graph" />
   </a>
