@@ -26,12 +26,12 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Sync latest profile README changes
+        run: git pull --rebase origin main
       - name: Generate SVG dashboard cards
         env:
           GITHUB_TOKEN: ${{ github.token }}
         run: python scripts/generate_profile_cards.py
-      - name: Sync latest profile README changes
-        run: git pull --rebase origin main
       - name: Commit updated cards
         run: |
           git config user.name "github-actions[bot]"
