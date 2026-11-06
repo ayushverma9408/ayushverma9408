@@ -153,4 +153,51 @@ bars += text(26, 165, "WEEKLY CONTRIBUTION TREND · LAST 26 WEEKS", 8, "#8b9bb4"
 bars += text(26, 105, f"{total_contributions:,} contributions in the last year", 11, "#bb9af7", "600")
 (OUT / "live-coding.svg").write_text(card("Live Coding Activity", "GITHUB CONTRIBUTION CALENDAR · REFRESHED DAILY", bars, height=190), encoding="utf-8")
 
+
+# Full-width GitHub activity graph, rendered locally as a repository-owned SVG.
+weekly_all = [
+    sum(day.get("contributionCount", 0) for day in week.get("contributionDays", []))
+    for week in calendar.get("weeks", [])
+]
+graph_width, graph_height = 1000, 300
+left, right, top, bottom = 62, 24, 70, 48
+plot_w, plot_h = graph_width - left - right, graph_height - top - bottom
+peak = max(weekly_all, default=1) or 1
+coords = []
+for i, value in enumerate(weekly_all):
+    px = left + (i / max(1, len(weekly_all)-1)) * plot_w
+    py = top + plot_h - (value / peak) * plot_h
+    coords.append((px, py))
+line_points = " ".join(f"{x:.1f},{y:.1f}" for x, y in coords)
+area_points = f"{left},{top+plot_h} " + line_points + f" {left+plot_w},{top+plot_h}"
+grid = ""
+for tick in range(5):
+    y = top + plot_h - (tick / 4) * plot_h
+    val = round(peak * tick / 4)
+    grid += f'<line x1="{left}" y1="{y:.1f}" x2="{left+plot_w}" y2="{y:.1f}" stroke="#293449" stroke-dasharray="4 6"/>'
+    grid += f'<text x="{left-12}" y="{y+4:.1f}" text-anchor="end" fill="#8290a8" font-size="10">{val}</text>'
+month_labels = ""
+all_dates = [day.get("date") for day in days]
+for i, day_date in enumerate(all_dates):
+    if day_date and day_date.endswith("-01"):
+        x = left + (i / max(1, len(all_dates)-1)) * plot_w
+        month = date.fromisoformat(day_date).strftime("%b")
+        month_labels += f'<text x="{x:.1f}" y="{top+plot_h+24}" fill="#8290a8" font-size="10">{month}</text>'
+graph_svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{graph_width}" height="{graph_height}" viewBox="0 0 {graph_width} {graph_height}">
+<defs>
+  <linearGradient id="graphBg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111827"/><stop offset="1" stop-color="#171b2e"/></linearGradient>
+  <linearGradient id="graphArea" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#7aa2f7" stop-opacity=".38"/><stop offset="1" stop-color="#7aa2f7" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="100%" height="100%" rx="16" fill="url(#graphBg)" stroke="#2b3448"/>
+<text x="28" y="34" fill="#e5e9f0" font-family="Segoe UI,Arial" font-size="17" font-weight="700">GitHub Activity — Live Graph</text>
+<text x="28" y="53" fill="#8b9bb4" font-family="Segoe UI,Arial" font-size="10">WEEKLY CONTRIBUTIONS · LAST 12 MONTHS · {total_contributions:,} TOTAL CONTRIBUTIONS</text>
+{grid}
+<polygon points="{area_points}" fill="url(#graphArea)"/>
+<polyline points="{line_points}" fill="none" stroke="#7aa2f7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+{''.join(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="3.2" fill="#bb9af7" stroke="#111827" stroke-width="1.5"/>' for x,y in coords)}
+{month_labels}
+<text x="28" y="{graph_height-12}" fill="#59677e" font-family="Segoe UI,Arial" font-size="9">AYUSH OS · SELF-HOSTED SVG · UPDATED DAILY BY GITHUB ACTIONS</text>
+</svg>'''
+(OUT / "activity-graph.svg").write_text(graph_svg, encoding="utf-8")
+
 print("Generated:", ", ".join(p.name for p in OUT.glob("*.svg")))
