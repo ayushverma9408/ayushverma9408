@@ -281,16 +281,16 @@ The map below groups the technologies and concepts I'm learning and applying.
 ## 📊 Coding Activity Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushverma9408&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ayushverma9408&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
        height="165"
        alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushverma9408&layout=compact&theme=tokyonight&hide_border=true"
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ayushverma9408&layout=compact&theme=tokyonight&hide_border=true"
        height="165"
        alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushverma9408&theme=tokyonight&hide_border=true"
+  <img src="https://streak-stats.demolab.com/?user=ayushverma9408&theme=tokyonight&hide_border=true"
        width="70%"
        alt="GitHub contribution streak" />
 </p>
@@ -298,10 +298,10 @@ The map below groups the technologies and concepts I'm learning and applying.
 ## ⏱️ Live Coding Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushverma9408&layout=donut&theme=tokyonight&hide_border=true"
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ayushverma9408&layout=donut&theme=tokyonight&hide_border=true"
        height="180"
        alt="Language distribution from public GitHub repositories"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushverma9408&show_icons=true&hide=issues&theme=tokyonight&hide_border=true"
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ayushverma9408&show_icons=true&hide=issues&theme=tokyonight&hide_border=true"
        height="180"
        alt="Live GitHub coding activity summary"/>
 </p>
@@ -316,7 +316,7 @@ The map below groups the technologies and concepts I'm learning and applying.
   To show actual coding hours and editor/language breakdowns, connect a [WakaTime](https://wakatime.com/) account and replace `YOUR_WAKATIME_USERNAME` below with your WakaTime username:
 
   ```html
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true"
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true"
        alt="WakaTime coding activity"/>
   ```
 
