@@ -30,6 +30,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ github.token }}
         run: python scripts/generate_profile_cards.py
+      - name: Sync latest profile README changes
+        run: git pull --rebase origin main
       - name: Commit updated cards
         run: |
           git config user.name "github-actions[bot]"
