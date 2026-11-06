@@ -200,4 +200,40 @@ graph_svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{graph_width}" he
 </svg>'''
 (OUT / "activity-graph.svg").write_text(graph_svg, encoding="utf-8")
 
+
+# Trophy wall: verified milestones derived from public GitHub profile data.
+# These are profile milestones, not GitHub's private/official achievement badges.
+milestones = [
+    ("PUBLIC REPOSITORIES", len(repos), "Projects published"),
+    ("REPOSITORY STARS", stars, "Stars received"),
+    ("FOLLOWERS", profile.get("followers", 0), "Community followers"),
+    ("CONTRIBUTIONS", total_contributions, "Last 365 days"),
+    ("LONGEST STREAK", longest, "Consecutive active days"),
+    ("LANGUAGES", len(language_bytes), "Primary repo languages")
+]
+trophy_w, trophy_h = 1000, 330
+medals = ""
+medal_colors = ["#e0af68", "#7aa2f7", "#bb9af7", "#9ece6a", "#f7768e", "#73daca"]
+for i, (label, value, detail) in enumerate(milestones):
+    col, row = i % 3, i // 3
+    x, y = 24 + col * 326, 82 + row * 112
+    color = medal_colors[i]
+    cx, cy = x + 42, y + 31
+    medals += f'<path d="M{cx-13} {cy+18} L{cx-20} {cy+45} L{cx} {cy+36} L{cx+20} {cy+45} L{cx+13} {cy+18}" fill="{color}" opacity=".72"/>'
+    medals += f'<circle cx="{cx}" cy="{cy}" r="25" fill="{color}" opacity=".18" stroke="{color}" stroke-width="2"/>'
+    medals += f'<circle cx="{cx}" cy="{cy}" r="18" fill="none" stroke="{color}" stroke-width="1" opacity=".8"/>'
+    medals += f'<text x="{cx}" y="{cy+6}" text-anchor="middle" fill="{color}" font-size="17" font-weight="700">{i+1}</text>'
+    medals += f'<text x="{x+82}" y="{y+25}" fill="#e5e9f0" font-family="Segoe UI,Arial" font-size="12" font-weight="700">{esc(label)}</text>'
+    medals += f'<text x="{x+82}" y="{y+50}" fill="{color}" font-family="Segoe UI,Arial" font-size="22" font-weight="700">{esc(f"{value:,}")}</text>'
+    medals += f'<text x="{x+82}" y="{y+68}" fill="#8b9bb4" font-family="Segoe UI,Arial" font-size="9">{esc(detail)}</text>'
+trophy_svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{trophy_w}" height="{trophy_h}" viewBox="0 0 {trophy_w} {trophy_h}">
+<defs><linearGradient id="trophyBg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111827"/><stop offset="1" stop-color="#171b2e"/></linearGradient></defs>
+<rect width="100%" height="100%" rx="16" fill="url(#trophyBg)" stroke="#2b3448"/>
+<text x="28" y="35" fill="#e5e9f0" font-family="Segoe UI,Arial" font-size="18" font-weight="700">GitHub Trophy Wall</text>
+<text x="28" y="55" fill="#8b9bb4" font-family="Segoe UI,Arial" font-size="10">VERIFIED PROFILE MILESTONES · PUBLIC GITHUB DATA</text>
+{medals}
+<text x="28" y="310" fill="#59677e" font-family="Segoe UI,Arial" font-size="9">SELF-HOSTED SVG · REFRESHED DAILY · MILESTONES, NOT OFFICIAL GITHUB ACHIEVEMENT BADGES</text>
+</svg>'''
+(OUT / "trophy-wall.svg").write_text(trophy_svg, encoding="utf-8")
+
 print("Generated:", ", ".join(p.name for p in OUT.glob("*.svg")))
