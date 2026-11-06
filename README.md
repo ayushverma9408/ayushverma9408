@@ -273,7 +273,7 @@ The map below groups the technologies and concepts I'm learning and applying.
 ## 🏆 GitHub Trophy Wall
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushverma9408&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1"
+  <img src="https://raw.githubusercontent.com/ayushverma9408/ayushverma9408/main/profile/trophy-wall.svg"
        width="100%"
        alt="GitHub profile trophies" />
 </p>
