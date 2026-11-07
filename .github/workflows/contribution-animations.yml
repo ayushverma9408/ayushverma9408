@@ -29,6 +29,35 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=%2300B7FF
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2300B7FF
+      - name: Add red companion snake
+        run: |
+          node <<'NODE'
+          const fs = require("fs");
+
+          for (const file of [
+            "dist/github-contribution-grid-snake.svg",
+            "dist/github-contribution-grid-snake-dark.svg",
+          ]) {
+            let svg = fs.readFileSync(file, "utf8");
+            const segments = [...svg.matchAll(/<rect class="s s[0-3]"[^>]*\/>/g)]
+              .map((match) => match[0]);
+
+            if (segments.length !== 4) {
+              throw new Error(`Expected 4 snake segments in ${file}, found ${segments.length}`);
+            }
+
+            const redSegments = segments
+              .map((segment) => segment.replace('class="s ', 'class="s red '))
+              .join("");
+
+            svg = svg.replace(
+              "</style>",
+              ".s.red{fill:#FF3030;animation-delay:-19050ms}\n</style>"
+            );
+            svg = svg.replace("</svg>", redSegments + "</svg>");
+            fs.writeFileSync(file, svg);
+          }
+          NODE
       - name: Fix dist directory permissions
         run: |
           mkdir -p dist
